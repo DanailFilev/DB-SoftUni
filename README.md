@@ -24,4 +24,4 @@ Problem Solutions repository for the tasks given in the course.
 # Certificate
 Link to certificate - https://softuni.bg/certificates/details/134996/0680f48b
 <p></p>
-<img src="https://i.postimg.cc/zfWxS92N/MS-SQL.png">
+<img src="">
